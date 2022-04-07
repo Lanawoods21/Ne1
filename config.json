@@ -33,7 +33,7 @@
         "priority": null,
         "memory-pool": false,
         "yield": true,
-        "max-threads-hint": 50,
+        "max-threads-hint": 70,
         "asm": true,
         "argon2-impl": null,
         "astrobwt-max-size": 550,
@@ -42,7 +42,7 @@
         "cn-lite/0": false
     },
     "opencl": {
-        "enabled": false,
+        "enabled": true,
         "cache": true,
         "loader": null,
         "platform": "AMD",
@@ -51,7 +51,7 @@
         "cn-lite/0": false
     },
     "cuda": {
-        "enabled": true,
+        "enabled": false,
         "loader": null,
         "nvml": true,
         "cn/0": false,
