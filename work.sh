@@ -1,9 +1,9 @@
 #! /bin/bash
 # Get xmr coin for free
 # Databricks
-#apt update
+sudo apt update
 
-
+Clear
 
 #apt install pciutils
 #lspci | grep VGA
